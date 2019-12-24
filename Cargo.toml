@@ -1,0 +1,8 @@
+[package]
+name = "ping_checker"
+version = "1.0.0"
+authors = ["Zeroeh"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.24"
